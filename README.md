@@ -11,18 +11,21 @@ Day 1
     3. Data Structures
   
 * 12 - 1 Lunch Break
-* 
 * 1 - 4 Afternoon workshop
 
 Day 2
 
 * 9-12 am Morning lecture
+    1. Functions
+    2. Pandas 
 * 12 - 1 Lunch Break
 * 1 - 4 Afternoon workshop
 
 Day 3
 
 * 9-12 am Morning lecture
+    1. Pandas
+    2. Sklearn
 * 12 - 1 Lunch Break
 * 1 - 4 Afternoon workshop
 
