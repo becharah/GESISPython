@@ -1,34 +1,44 @@
 # GESISPython
-Learning Material for the GESIS workshop on Python Programming for Data Science.
+Learning Material for the GESIS workshop on Introduction to Python Programming for Data Science.
+10:00 - 12:30 and 13:30 - 15:30.
 
 # Schedule
 
 ## Day 1
 
-* 10-13 Morning lecture
+* 10-13:30 Morning lecture
     1. Fundamentals
-    2. Data Structures
   
-* 13 - 14 Lunch Break
-* 14 - 17 Afternoon workshop
+* 12:30 - 13:30 Lunch Break
+* 
+* 13:30 - 15:30 Afternoon workshop
 
 ## Day 2
 
-* 10-13 am Morning lecture
-    1. Flow Control
-    2. Functions
-       
-* 13 - 14 Lunch Break
-* 14 - 17 Afternoon workshop
+* 10-13:30 Morning lecture
+    1. Pandas and Data analysis
+  
+* 12:30 - 13:30 Lunch Break
+* 
+* 13:30 - 15:30 Afternoon workshop
 
 ## Day 3
 
-* 10-13 am Morning lecture
-    1. Pandas
-    2. Sklearn
-       
-* 13 - 14 Lunch Break
-* 14 - 17 Afternoon workshop
+* 10-13:30 Morning lecture
+    1. Viz (matplot lib and seaborn)
+  
+* 12:30 - 13:30 Lunch Break
+* 
+* 13:30 - 15:30 Afternoon workshop
+
+## Day 4
+
+* 10-13:30 Morning lecture
+    1. ML pipeline
+  
+* 12:30 - 13:30 Lunch Break
+* 
+* 13:30 - 15:30 Afternoon workshop
 
 ## Suggested Tutorials and videos:
 
