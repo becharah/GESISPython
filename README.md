@@ -10,7 +10,6 @@ Learning Material for the GESIS workshop on Introduction to Python Programming f
     1. Fundamentals
   
 * 12:30 - 13:30 Lunch Break
-* 
 * 13:30 - 15:30 Afternoon workshop
 
 ## Day 2
@@ -19,7 +18,6 @@ Learning Material for the GESIS workshop on Introduction to Python Programming f
     1. Pandas and Data analysis
   
 * 12:30 - 13:30 Lunch Break
-* 
 * 13:30 - 15:30 Afternoon workshop
 
 ## Day 3
@@ -28,7 +26,6 @@ Learning Material for the GESIS workshop on Introduction to Python Programming f
     1. Viz (matplot lib and seaborn)
   
 * 12:30 - 13:30 Lunch Break
-* 
 * 13:30 - 15:30 Afternoon workshop
 
 ## Day 4
@@ -37,10 +34,9 @@ Learning Material for the GESIS workshop on Introduction to Python Programming f
     1. ML pipeline
   
 * 12:30 - 13:30 Lunch Break
-* 
 * 13:30 - 15:30 Afternoon workshop
 
-## Suggested Tutorials and videos:
+## Suggested Tutorials and videos:
 
 * Python: https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
 * Pandas: https://www.youtube.com/watch?v=vmEHCJofslg&list=LL&index=19
